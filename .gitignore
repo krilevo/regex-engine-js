@@ -1,0 +1,5 @@
+node_modules/
+regex.test.js
+package.json
+package-lock.json
+index.html
